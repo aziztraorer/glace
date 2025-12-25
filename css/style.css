@@ -209,8 +209,7 @@ main
     gap: 12px;
     text-align: center;
     color: white;
-    margin: auto;
-    width:95;
+    margin: 0 auto;
 }
 .conteneuravis .aviscontenu
 {
