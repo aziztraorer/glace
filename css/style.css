@@ -209,7 +209,9 @@ main
     gap: 12px;
     text-align: center;
     color: white;
-    margin: 0 auto;
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
 }
 .conteneuravis .aviscontenu
 {
