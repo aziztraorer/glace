@@ -209,10 +209,10 @@ main
     gap: 12px;
     text-align: center;
     color: white;
+    margin: auto;
 }
 .conteneuravis .aviscontenu
 {
-    
     margin: 15px;
     width: 120px;
 }
